@@ -1,3 +1,3 @@
 # snappy_gosh
-idiot circle conquering some weird salami
-learned my way around processing
+### Idiot circle conquering some weird salami.
+Learned my way around processing.
